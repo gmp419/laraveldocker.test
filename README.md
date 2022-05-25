@@ -10,7 +10,7 @@
 
 Just paste you laravel project to src folder and run these comands.
 
-docker-compose build
+docker-compose build &&
 docker-compose up -d 
 
 Your application will run on localhost::8088
