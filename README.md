@@ -8,6 +8,7 @@
 
 ## Documentation
 
+create src folder in root directory
 Just paste you laravel project to src folder and run these comands.
 
 docker-compose build &&
